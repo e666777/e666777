@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @e666777
+- 👀 I’m interested in psychology(self-representation)
+- 🌱 I’m currently learning PsychoPy and latent change score model
+- 📫 email:ZPG121619@outlook.com
